@@ -1,4 +1,4 @@
-package woo
+package Woo
 
 import "strings"
 
